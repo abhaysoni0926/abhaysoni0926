@@ -2,11 +2,11 @@
 
 [![PortFolio](https://img.shields.io/badge/-PortFolio-B7472A?style=flat-informational&logo=codacy&logoColor=white)](https://abhaysoni0926.github.io/) &nbsp; 
 [![Linked In](https://img.shields.io/badge/-LinkedIn-blue?style=flat-informational&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhaysoni0926/) &nbsp; 
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FF8C00?style=flat-informational&logo=leetcode&logoColor=white)](https://leetcode.com/abhaysoni0926/) &nbsp; 
 [![GitLab](https://img.shields.io/badge/-GitLab-330F63?style=flat-informational&logo=gitlab&logoColor=white)](https://gitlab.com/abhaysoni0926) &nbsp; 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-informational&logo=twitter&logoColor=white)](https://twitter.com/abhaysoni0926) &nbsp; 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-F48024?style=flat-informational&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14081529/abhaysoni0926) &nbsp; 
 [![Hacker Rank](https://img.shields.io/badge/-HackerRank-2ec866?style=flat-informational&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/abhaysoni0926) &nbsp; 
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FF8C00?style=flat-informational&logo=leetcode&logoColor=white)](https://leetcode.com/abhaysoni0926/) &nbsp; 
 
 ### My name is Abhay Soni, a Programming enthusiast, and Problem Solver. I am passionate to learn new things and explore different domains. I am willing to contribute to the community.
 <br>
